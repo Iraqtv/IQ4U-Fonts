@@ -1,0 +1,26 @@
+To Add Awesome Arabic Fonts To Your Web Site Add This Code In Befor Close <head> Tag
+--------------------------------------------------------------------------------------
+
+For Font1 Add This
+	<link rel="stylesheet" type="text/css" href="https://bit.ly/Font1IQ4UStudio">
+--------------------------------------------------------------------------------------
+
+For Font2
+Add This
+	<link rel="stylesheet" type="text/css" href="https://bit.ly/Font2IQ4UStudio">
+  --------------------------------------------------------------------------------------
+
+  
+  In Css Page For Font1 Add This To Class You Want To Change Font:
+  
+    font-family: 'Changa', sans-serif;
+--------------------------------------------------------------------------------------
+  In Css Page For Font2 Add This To Class You Want To Change Font:
+  
+    font-family: 'Tajawal', sans-serif;
+--------------------------------------------------------------------------------------
+By:IQ4UStudio (IQ4U)
+Ahmad Dev
+
+  
+
