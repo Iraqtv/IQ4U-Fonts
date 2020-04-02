@@ -11,11 +11,11 @@ Add This
   --------------------------------------------------------------------------------------
 
   
-  In Css Page For Font1 Add This To Class You Want To Change Font:
+  In Css Page For Font1 Add This To Class You Want To Change Font In which:
   
     font-family: 'Changa', sans-serif;
 --------------------------------------------------------------------------------------
-  In Css Page For Font2 Add This To Class You Want To Change Font:
+  In Css Page For Font2 Add This To Class You Want To Change Font In which:
   
     font-family: 'Tajawal', sans-serif;
 --------------------------------------------------------------------------------------
